@@ -3,7 +3,6 @@
 *.spec
 setup.py
 old
-gui
 assets
 search_duplicate_text
 search_the_penalty
