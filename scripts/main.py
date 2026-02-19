@@ -1,4 +1,4 @@
-import window
+from window import StartApp
 
 if __name__ == '__main__':
-    app = window.StartApp()
+    app = StartApp()
